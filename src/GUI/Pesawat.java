@@ -1,4 +1,4 @@
-package yuda;
+package GUI;
 import java.text.NumberFormat;
 import java.util.Locale;
 public class Pesawat extends javax.swing.JFrame {
